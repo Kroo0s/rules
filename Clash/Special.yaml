@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,dl.google.com
 
   # > Steam
-  # - USER-AGENT,Steam*
   - DOMAIN-SUFFIX,pinyuncloud.com
   - DOMAIN-SUFFIX,steamcontent.com
 
@@ -19,8 +18,6 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
 
   # > Xunlei
-  # - PROCESS-NAME,Thunder
-  # - USER-AGENT,%E8%BF%85%E9%9B%B7
   - DOMAIN-SUFFIX,xunlei.com
 
   # > Private Tracker

@@ -2,8 +2,7 @@ payload:
 
   # 乌堆小透明
   - DOMAIN-SUFFIX,lt2333.com
-  
-  
+
   # > Netease Music
   - DOMAIN,apm.music.163.com
   - DOMAIN,apm3.music.163.com
@@ -30,12 +29,6 @@ payload:
   - IP-CIDR,59.111.181.35/32
   - IP-CIDR,59.111.181.38/32
   - IP-CIDR,59.111.181.60/32
-
-
-
-
-
-
 
   # > Beplay
   - DOMAIN-KEYWORD,beplay

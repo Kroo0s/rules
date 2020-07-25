@@ -21,6 +21,12 @@ payload:
   - DOMAIN-SUFFIX,gate.hockeyapp.net
   - DOMAIN-SUFFIX,smartmailcloud.com
 
+  # > Steam
+  - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
 
   # > Top blocked sites
   - DOMAIN-SUFFIX,2o7.net
@@ -741,15 +747,6 @@ payload:
   - IP-CIDR,75.126.0.0/16
   - IP-CIDR,174.37.0.0/16
   - IP-CIDR,208.43.0.0/16
-
-  # > Fast
-  - DOMAIN-SUFFIX,fast.com
-
-  # > Speedtest by Ookla
-  - DOMAIN-KEYWORD,speedtest
-  - DOMAIN-SUFFIX,ooklaserver.net
-
-
 
   # > PayPal
   - DOMAIN-KEYWORD,paypal
