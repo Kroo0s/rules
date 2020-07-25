@@ -51,3 +51,6 @@ payload:
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,smtp
 
+  # User
+  - DOMAIN-SUFFIX,music.mp3-download.best
+
