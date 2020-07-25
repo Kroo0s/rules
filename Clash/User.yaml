@@ -1,3 +1,7 @@
 payload:
+  # Scihub
   - DOMAIN-SUFFIX,sci-hub.st
   - DOMAIN-SUFFIX,sci-hub.tw
+  
+  # 新加坡联合早报
+  - DOMAIN-SUFFIX,zaobao.com
