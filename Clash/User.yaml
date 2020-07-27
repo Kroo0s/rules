@@ -5,3 +5,6 @@ payload:
   
   # 新加坡联合早报
   - DOMAIN-SUFFIX,zaobao.com
+
+  # Protonmail
+  - DOMAIN-SUFFIX,protonmail.com
