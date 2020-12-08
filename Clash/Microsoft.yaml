@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,microsoft-tst.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,outlook.com
