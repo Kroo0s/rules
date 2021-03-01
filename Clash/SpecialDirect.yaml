@@ -11,12 +11,6 @@ payload:
   - DOMAIN-SUFFIX,pinyuncloud.com
   - DOMAIN-SUFFIX,steamcontent.com
 
-  # > Windows
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
-
   # > Xunlei
   - DOMAIN-SUFFIX,xunlei.com
 
