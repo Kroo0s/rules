@@ -1,0 +1,15 @@
+# Scihub
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci-hub.tw
+
+# 新加坡联合早报
+DOMAIN-SUFFIX,zaobao.com
+
+# Protonmail
+DOMAIN-SUFFIX,protonmail.com
+
+# Dler
+DOMAIN-KEYWORD,dlercloud
+
+# digcert证书
+DOMAIN-SUFFIX,digcert.com
