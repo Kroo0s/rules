@@ -76,3 +76,5 @@ DOMAIN-SUFFIX,totheglory.im
 
 DOMAIN-SUFFIX,smtp
 URL-REGEX,(Subject|HELO|SMTP)
+
+DOMAIN-SUFFIX,cdn.jsdelivr.net
