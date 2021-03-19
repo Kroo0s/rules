@@ -79,3 +79,15 @@ payload:
   # URL-REGEX,(Subject|HELO|SMTP)
   
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
+
+  # TIM
+  - PROCESS-NAME,TIM.exe
+  - PROCESS-NAME,QQExternal.exe
+  - PROCESS-NAME,TXPlatform.exe
+  # QQMusic
+  - PROCESS-NAME,qmbrowser.exe
+  - PROCESS-NAME,QQMusic.exe
+
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,wechatweb.exe
+  - PROCESS-NAME,WeChatApp.exe

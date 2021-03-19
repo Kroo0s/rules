@@ -11,3 +11,6 @@ payload:
 
   # Dler
   - DOMAIN-KEYWORD,dlercloud
+
+  
+  - PROCESS-NAME,Telegram.exe
